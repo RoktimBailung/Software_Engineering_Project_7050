@@ -1,29 +1,56 @@
-Software Engineering Assignment: SDLC Model Selection
-1️⃣ Introduction
-The project that I have selected is a Library Management System (LMS). This software is designed to automate the daily operations of a library, such as maintaining a database of books, managing member records, tracking issued/returned items, and calculating fines. The primary goal is to replace a manual or semi-automated system with a reliable, structured digital solution.
+# 📄 Software Engineering Assignment: SDLC Model Selection
 
-2️⃣ Selected SDLC Model
-The most appropriate model for this project is the Waterfall Model.
+## 📋 Project Information
+* **Course:** Software Engineering
+* **Topic:** SDLC Model Selection
+* **Student Name:** [Your Name]
+* **Roll Number:** [Your Roll Number]
+* **Institution:** Jorhat Engineering College
 
-3️⃣ Justification
-The Waterfall Model is ideal for the Library Management System due to the following reasons:
+---
 
-Requirement Stability: The requirements for an LMS (issue, return, search, member login) are well-defined and unlikely to change significantly during the development process.
+## 1️⃣ Introduction
+The project selected for this assignment is a **Library Management System (LMS)**. 
 
-Simplicity and Management: Since the project scope is fixed and small-scale, the linear progression of the Waterfall model makes it easy to manage and track progress.
+An LMS is a software solution designed to handle the primary housekeeping functions of a library. It automates tasks such as:
+* Maintaining a searchable database of books.
+* Managing student/member registration.
+* Tracking book issue and return dates.
+* Automated fine calculation and inventory reports.
 
-Clarity of Phases: Each phase (Requirements -> Design -> Implementation -> Testing) has specific deliverables, ensuring that the database schema and system architecture are fully documented before coding begins.
+---
 
-Low Risk: There are no high-risk technical unknowns or complex R&D involved, meaning the "frozen" requirements of Waterfall won't lead to project failure.
+## 2️⃣ Selected SDLC Model
+> ### **Model Choice: Waterfall Model**
+The Waterfall Model was chosen due to its linear, disciplined approach, which aligns perfectly with the predictable nature of this project.
 
-Cost-Effectiveness: For a standard system like an LMS, the Waterfall model minimizes the need for continuous user involvement and frequent iterations, saving time and resources.
+---
 
-4️⃣ Comparison with Other Models
-Why not Agile? Agile is best for projects with rapidly changing requirements or high uncertainty (like a startup app). Using Agile for an LMS would lead to unnecessary overhead, constant meetings, and "scope creep" for a system that has a very clear, static end goal.
+## 3️⃣ Justification
+The Waterfall model is the most effective choice for a Library Management System based on the following criteria:
 
-Why not Spiral? The Spiral model focuses heavily on risk analysis and expensive prototyping. A Library Management System is a low-risk, standard application, making the complex iterations of the Spiral model overkill and unnecessarily expensive.
+| Criteria | Justification |
+| :--- | :--- |
+| **Requirement Stability** | The core functions (Issue/Return/Search) are well-established and unlikely to change during development. |
+| **Simplicity** | The project scope is small and manageable, making a linear flow easy to track. |
+| **Clarity of Phases** | Each stage has specific deliverables and a review process, ensuring high-quality documentation. |
+| **Risk Level** | Technical risks are low as the technology stack required is standard and well-documented. |
+| **Cost-Effectiveness** | Requires less frequent user involvement compared to iterative models, saving time and resources. |
 
-5️⃣ Diagram of the selected model has been uploaded separately.
+---
 
-6️⃣ Conclusion
-The Waterfall Model is the most logical choice for the Library Management System because of the project's predictable nature and well-understood requirements. By following a disciplined, phase-by-phase approach, the system can be delivered with high-quality documentation and minimal technical debt, ensuring long-term reliability for the institution.
+## 4️⃣ Comparison with Other Models
+
+### ❌ Agile Model
+* **Why not suitable:** Agile is designed for projects where requirements evolve rapidly. For an LMS, the requirements are "frozen" from the start. Using Agile would lead to unnecessary sprint planning and overhead for a simple, static system.
+
+### ❌ Spiral Model
+* **Why not suitable:** The Spiral model is heavy on risk analysis and prototyping. Since an LMS is a low-risk, standard application, the complexity of the Spiral model would result in wasted budget and time.
+
+---
+
+## 5️⃣ Diagram
+The visual representation of the Waterfall SDLC phases has been uploaded separately.
+
+## 6️⃣ Conclusion
+The Waterfall Model provides the structured framework necessary for a project with fixed requirements like a Library Management System. Its emphasis on completing one phase before moving to the next ensures that the final product is robust, fully documented, and meets all initial specifications without the need for costly mid-project pivots.
