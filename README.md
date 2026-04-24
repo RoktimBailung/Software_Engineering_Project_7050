@@ -50,7 +50,7 @@ The Waterfall model is the most effective choice for a Library Management System
 ---
 
 ## 5️⃣ Diagram
-The visual representation of the Waterfall SDLC phases has been uploaded separately.
+The visual representation of the Waterfall SDLC phases and how it is used in **LMS** has been uploaded separately.
 
 ## 6️⃣ Conclusion
 The Waterfall Model provides the structured framework necessary for a project with fixed requirements like a Library Management System. Its emphasis on completing one phase before moving to the next ensures that the final product is robust, fully documented, and meets all initial specifications without the need for costly mid-project pivots.
