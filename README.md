@@ -1,6 +1,6 @@
 Software Engineering Assignment: SDLC Model Selection
 1️⃣ Introduction
-The project selected is a Library Management System (LMS). This software is designed to automate the daily operations of a library, such as maintaining a database of books, managing member records, tracking issued/returned items, and calculating fines. The primary goal is to replace a manual or semi-automated system with a reliable, structured digital solution.
+The project that I have selected is a Library Management System (LMS). This software is designed to automate the daily operations of a library, such as maintaining a database of books, managing member records, tracking issued/returned items, and calculating fines. The primary goal is to replace a manual or semi-automated system with a reliable, structured digital solution.
 
 2️⃣ Selected SDLC Model
 The most appropriate model for this project is the Waterfall Model.
@@ -22,3 +22,8 @@ Cost-Effectiveness: For a standard system like an LMS, the Waterfall model minim
 Why not Agile? Agile is best for projects with rapidly changing requirements or high uncertainty (like a startup app). Using Agile for an LMS would lead to unnecessary overhead, constant meetings, and "scope creep" for a system that has a very clear, static end goal.
 
 Why not Spiral? The Spiral model focuses heavily on risk analysis and expensive prototyping. A Library Management System is a low-risk, standard application, making the complex iterations of the Spiral model overkill and unnecessarily expensive.
+
+5️⃣ Diagram of the selected model has been uploaded separately.
+
+6️⃣ Conclusion
+The Waterfall Model is the most logical choice for the Library Management System because of the project's predictable nature and well-understood requirements. By following a disciplined, phase-by-phase approach, the system can be delivered with high-quality documentation and minimal technical debt, ensuring long-term reliability for the institution.
