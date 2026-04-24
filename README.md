@@ -1,6 +1,6 @@
-# 📄 Software Engineering Assignment: SDLC Model Selection
+#  Software Engineering Assignment: SDLC Model Selection
 
-## 📋 Project Information
+##  Project Information
 * **Course:** Software Engineering
 * **Topic:** SDLC Model Selection
 * **Student Name:** Roktim Kumar Bailung
@@ -9,7 +9,7 @@
 
 ---
 
-## 1️⃣ Introduction
+##  Introduction
 The project which I have selected for this assignment is a **Library Management System (LMS)**. 
 
 An LMS is a software solution designed to handle the primary housekeeping functions of a library. It automates tasks such as:
@@ -20,13 +20,13 @@ An LMS is a software solution designed to handle the primary housekeeping functi
 
 ---
 
-## 2️⃣ Selected SDLC Model
+##  Selected SDLC Model
 > ### **Model Choice: Waterfall Model**
 The Waterfall Model was chosen due to its linear, disciplined approach, which aligns perfectly with the predictable nature of this project.
 
 ---
 
-## 3️⃣ Justification
+##  Justification
 The Waterfall model is the most effective choice for a Library Management System based on the following criteria:
 
 | Criteria | Justification |
@@ -39,18 +39,18 @@ The Waterfall model is the most effective choice for a Library Management System
 
 ---
 
-## 4️⃣ Comparison with Other Models
+##  Comparison with Other Models
 
-### ❌ Agile Model
+###  Agile Model
 * **Why not suitable:** Agile is designed for projects where requirements evolve rapidly. For an LMS, the requirements are "frozen" from the start. Using Agile would lead to unnecessary sprint planning and overhead for a simple, static system.
 
-### ❌ Spiral Model
+###  Spiral Model
 * **Why not suitable:** The Spiral model is heavy on risk analysis and prototyping. Since an LMS is a low-risk, standard application, the complexity of the Spiral model would result in wasted budget and time.
 
 ---
 
-## 5️⃣ Diagram
+##  Diagram
 The visual representation of the Waterfall SDLC phases and how it is used in **LMS** has been uploaded separately.
 
-## 6️⃣ Conclusion
+##  Conclusion
 The Waterfall Model provides the structured framework necessary for a project with fixed requirements like a Library Management System. Its emphasis on completing one phase before moving to the next ensures that the final product is robust, fully documented, and meets all initial specifications without the need for costly mid-project pivots.
