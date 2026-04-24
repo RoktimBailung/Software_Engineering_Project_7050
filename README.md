@@ -3,14 +3,14 @@
 ## 📋 Project Information
 * **Course:** Software Engineering
 * **Topic:** SDLC Model Selection
-* **Student Name:** [Your Name]
-* **Roll Number:** [Your Roll Number]
+* **Student Name:** Roktim Kumar Bailung
+* **Roll Number:** 230710007050
 * **Institution:** Jorhat Engineering College
 
 ---
 
 ## 1️⃣ Introduction
-The project selected for this assignment is a **Library Management System (LMS)**. 
+The project which I have selected for this assignment is a **Library Management System (LMS)**. 
 
 An LMS is a software solution designed to handle the primary housekeeping functions of a library. It automates tasks such as:
 * Maintaining a searchable database of books.
